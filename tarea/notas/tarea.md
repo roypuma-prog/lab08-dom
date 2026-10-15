@@ -59,3 +59,12 @@ class Tarea {
 | Agregar la tarea "Estudiar JS" con prioridad "Alta" | Aparece en la lista con su etiqueta de prioridad   | Muestra "Estudiar JS [Prioridad: Alta]"               | Si             |
 | Hacer clic sobre el texto de la tarea agregada      | Se tacha el texto indicando que fue completada     | Cambia la clase CSS y se aplica line-through          | Si             |
 | Hacer clic en el boton "Eliminar"                   | El elemento desaparece por completo de la pantalla | Se ejecuta li.remove() y se elimina el nodo DOM       | Si             |
+
+# lab08-dom
+
+Bitacora de JavaScript interactivo: DOM, eventos y objetos
+
+- [Bitacora de JavaScript interactivo](notas/BITACORA.md)
+- [Ver la pagina en vivo](https://roypuma-prog.github.io/lab08-dom/)
+- [Tarea: mi componente interactivo](notas/TAREA.md)
+- [Ver la tarea en vivo](https://roypuma-prog.github.io/lab08-dom/tarea/)
